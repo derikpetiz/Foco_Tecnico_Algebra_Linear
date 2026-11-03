@@ -1,4 +1,4 @@
-# 🛡️ Foco Técnico: Álgebra Linear — Proteção de Dados & Modelagem Preditiva
+# 🛡️ Proteção de Dados & Modelagem Preditiva
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2+-orange.svg)](https://scikit-learn.org/)
